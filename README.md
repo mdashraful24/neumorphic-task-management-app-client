@@ -1,8 +1,8 @@
-# Task Management Application
+# Neumorphic Task Manager Application
 
-**Task Management Application** is a modern, responsive, and user-friendly task management tool built with **React**, **Express.js**, and **MongoDB**. It allows users to organize tasks into three categories: **To-Do**, **In Progress**, and **Done**. The app features a drag-and-drop interface, real-time database synchronization, and Firebase authentication for secure access.
+**Neumorphic Task Manager Application** is a modern, responsive, and user-friendly task management tool built with **React**, **Express.js**, and **MongoDB**. It allows users to organize tasks into three categories: **To-Do**, **In Progress**, and **Done**. The app features a drag-and-drop interface, real-time database synchronization, and Firebase authentication for secure access.
 
-🚀 **Live Demo:** [https://taskmanagement-7a430.web.app/]
+🚀 **Live Demo:** [https://neumorphictaskmanager.web.app/]
 
 ---
 
@@ -56,7 +56,7 @@
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/mdashraful24/task-management-app-server.git
+   git clone https://github.com/mdashraful24/neumorphic-task-management-app-client.git
    cd task-management-app
    ```
 
@@ -151,8 +151,8 @@ PORT=5000
 
 You can view the live version of the **Task Management Application** at the following link:
 
-- **Live Site 1:** [https://taskmanagement-7a430.web.app/]
-- **Live Site 2:** [https://taskmanagement-7a430.firebaseapp.com/]
+- **Live Site 1:** [https://neumorphictaskmanager.web.app/]
+- **Live Site 2:** [https://neumorphictaskmanager.firebaseapp.com/]
 
 🚀 **Organize your tasks efficiently with this modern task management tool!** 📋✨
 
