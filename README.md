@@ -1,6 +1,10 @@
 # Neumorphic Task Manager Application
 
-**Neumorphic Task Manager Application** is a modern, responsive, and user-friendly task management tool built with **React**, **Express.js**, and **MongoDB**. It allows users to organize tasks into three categories: **To-Do**, **In Progress**, and **Done**. The app features a drag-and-drop interface, real-time database synchronization, and Firebase authentication for secure access.
+<div align="center">
+  <img height="500" src="https://drive.google.com/uc?export=view&id=1BylRZzneKWSa1UiO_HUQ3DKvu1hTH9tK" />
+</div>
+
+The **Neumorphic Task Manager Application** is an all-in-one solution for managing daily tasks effectively. It allows users to add, edit, delete, and organize tasks using a smooth drag-and-drop feature. Tasks are categorized into three clear sections: **To-Do**, **In Progress**, and **Done**, making it easy to monitor progress and stay productive through a user-friendly interface inspired by neumorphic design.
 
 🚀 **Live Demo:** [https://neumorphictaskmanager.web.app/]
 
