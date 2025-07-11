@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Neumorphism styles */
+.shadow-neumorph {
+    box-shadow: 8px 8px 16px #d1d9e6, -8px -8px 16px #ffffff;
+}
+
+.shadow-neumorph-2 {
+    box-shadow: 2px 2px 10px #d1d9e6, -2px -2px 10px #d1d9e6;
+}
+
+.shadow-soft-neumorph {
+    box-shadow: 4px 4px 8px #d1d9e6, -4px -4px 8px #ffffff;
+}
+
+.shadow-inset-neumorph {
+    box-shadow: inset 3px 3px 6px #d1d9e6, inset -3px -3px 6px #ffffff;
+}
+
+.bg-gray-100 {
+    background-color: #e0e5ec;
+}
+
+/* Transition effects */
+.transition-all {
+    transition: all 0.3s ease;
+}
