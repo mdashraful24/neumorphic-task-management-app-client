@@ -6,7 +6,7 @@
 
 The **Neumorphic Task Manager Application** is an all-in-one solution for managing daily tasks effectively. It allows users to add, edit, delete, and organize tasks using a smooth drag-and-drop feature. Tasks are categorized into three clear sections: **To-Do**, **In Progress**, and **Done**, making it easy to monitor progress and stay productive through a user-friendly interface inspired by neumorphic design.
 
-🚀 **Live Demo:** [https://neumorphictaskmanager.web.app/]
+🚀 **Live Demo:** [ProTasker](https://neumorphictaskmanager.web.app/)
 
 ---
 
