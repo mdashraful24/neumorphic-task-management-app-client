@@ -60,7 +60,7 @@ const Login = () => {
                 ? "shadow-neumorph-2" 
                 : "shadow-neumorph"}`}>
                 {/* Tabs */}
-                <div className="flex justify-between mb-6">
+                <div className="flex justify-between gap-1 mb-6">
                     <button className="flex-1 py-2 mx-1 text-center rounded-xl bg-gradient-to-br from-gray-100 to-gray-200 shadow-soft-neumorph font-semibold">
                         Login
                     </button>

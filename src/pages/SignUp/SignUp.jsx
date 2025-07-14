@@ -68,7 +68,7 @@ const SignUp = () => {
                 ? "shadow-neumorph-2"
                 : "shadow-neumorph"}`}>
                 {/* Tabs */}
-                <div className="flex justify-between mb-6">
+                <div className="flex justify-between gap-1 mb-6">
                     <Link to="/login" className="flex-1 py-2 mx-1 text-center rounded-xl bg-gray-100 shadow-inset-neumorph font-semibold">
                         Login
                     </Link>
