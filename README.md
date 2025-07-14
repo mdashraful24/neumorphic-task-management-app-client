@@ -158,5 +158,3 @@ You can view the live version of the **Task Management Application** at the foll
 - **Another Live Site:** [ProTasker](https://neumorphictaskmanager.firebaseapp.com/)
 
 🚀 **Organize your tasks efficiently with this modern task management tool!** 📋✨
-
----
