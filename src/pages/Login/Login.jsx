@@ -47,7 +47,7 @@ const Login = () => {
     };
 
     return (
-        <div className={`flex items-center justify-center p-4 text-black ${theme === "dark"
+        <div className={`flex items-center justify-center px-4 pt-8 pb-16 text-black ${theme === "dark"
             ? "bg-gray-900"
             : "bg-gray-100"
                 }`}>
