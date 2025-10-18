@@ -47,6 +47,23 @@ The **Neumorphic Task Manager Application** is an all-in-one solution for managi
 
 ---
 
+## Project Structure
+
+├── components/
+│   │   ├── ActivityLog/
+│   │   │   ├── ActivityLog.jsx
+│   │   │   └── FetchLogs.jsx
+│   │   ├── DroppableColumn/
+│   │   │   └── DroppableColumn.jsx
+│   │   ├── SocialLogin/
+│   │   │   └── SocialLogin.jsx
+│   │   ├── TaskBoard/
+│   │   │   └── TaskBoard.jsx
+│   │   ├── TaskCard/
+│   │   │   └── TaskCard.jsx
+│   │   └── WelcomePage/
+│   │       └── WelcomePage.jsx
+
 ## 🛠 Installation
 
 ### Prerequisites
