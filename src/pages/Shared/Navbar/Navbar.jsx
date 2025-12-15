@@ -52,7 +52,7 @@ const Navbar = () => {
 
     const links = (
         <>
-            <ul className='btn btn-sm'>
+            <ul className='btn btn-sm font-semibold'>
                 <NavLink to="/login" onClick={() => setMenuOpen(false)}>
                     Login
                 </NavLink>
