@@ -49,6 +49,7 @@ The **Neumorphic Task Manager Application** is an all-in-one solution for managi
 
 ## Project Structure
 
+```bash
 ├── components/
 │   │   ├── ActivityLog/
 │   │   │   ├── ActivityLog.jsx
@@ -63,6 +64,7 @@ The **Neumorphic Task Manager Application** is an all-in-one solution for managi
 │   │   │   └── TaskCard.jsx
 │   │   └── WelcomePage/
 │   │       └── WelcomePage.jsx
+```
 
 ## 🛠 Installation
 
