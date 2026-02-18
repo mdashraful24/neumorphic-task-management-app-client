@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosSecure = axios.create({
-    baseURL: 'http://localhost:5000'  // https://task-management-server-opal-xi.vercel.app
+    baseURL: import.meta.env.VITE_API_URL
 })
 const useAxiosSecure = () => {
     return axiosSecure;

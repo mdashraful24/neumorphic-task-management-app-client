@@ -135,7 +135,7 @@ const Navbar = () => {
                             )}
                         </div>
                     ) : (
-                        [links]
+                        links
                     )}
                 </div>
                 <div>
